@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[[images/foto-perfil.jpg](https://github.com/runaweay/runaweay/blob/98c8c1d6f1845d738c92fa043757c8e66c12cbab/images/mm.JPG)](https://github.com/runaweay/runaweay/blob/main/images/mm.JPG?raw=true)" width="100" style="border-radius: 50%;" alt="Mariana dos Santos Moreno"/>
+  <img src="https://github.com/runaweay/runaweay/blob/main/images/mm.JPG?raw=true" width="100" style="border-radius: 50%;" alt="Mariana dos Santos Moreno"/>
 </div>
 
 # Hey there, my name is Mariana!
