@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="180">
-      <img src="https://github.com/runaweay/runaweay/blob/main/images/mm.JPG?raw=true" width="200" style="border-radius: 50%;" alt="Mariana dos Santos Moreno"/>
+      <img src="https://wsrv.nl/?url=raw.githubusercontent.com/runaweay/runaweay/main/images/mm.JPG&w=300&h=300&fit=cover&mask=circle" width="150" alt="Mariana dos Santos Moreno"/>
     </td>
     <td>
 
@@ -14,7 +14,7 @@
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-6001-8219)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=5YK9hUgAAAAJ&hl=pt-BR)
 
-    </td>
+</td>
   </tr>
 </table>
 
