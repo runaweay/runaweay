@@ -20,6 +20,10 @@
 
 ---
 
+<table>
+  <tr>
+    <td width="600" valign="top">
+
 - 🌎 I'm a geographer (UNESP, Brazil) and have worked and researched anthropogenic soils since my undergrad;
 - 🎓 Currently a PhD student at Pontificia Universidad Católica de Chile;
 - 🔬 Thesis student at the Centre for Sustainable Urban Development ([CEDEUS](https://www.cedeus.cl/)), working with professor [@saryace](https://github.com/saryace)
@@ -31,9 +35,9 @@
 - 🎶 I play ukulele and love learning new instruments;
 - 🌱 Recently recovered from a lung condition and easing back into sports;
 
----
-
-<div align="center">
-  <img src="https://github.com/runaweay/runaweay/blob/main/images/mm_2.JPG?raw=true" width="500" alt="Photo"/>
-</div>
-
+</td>
+    <td width="400">
+      <img src="https://github.com/runaweay/runaweay/blob/main/images/mm_2.JPG?raw=true" width="100%" alt="Photo"/>
+    </td>
+  </tr>
+</table>
