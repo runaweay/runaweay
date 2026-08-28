@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="180">
-      <img src="https://github.com/runaweay/runaweay/blob/main/images/mm.JPG?raw=true" width="150" style="border-radius: 50%;" alt="Mariana dos Santos Moreno"/>
+      <img src="https://github.com/runaweay/runaweay/blob/main/images/mm.JPG?raw=true" width="200" style="border-radius: 50%;" alt="Mariana dos Santos Moreno"/>
     </td>
     <td>
 
