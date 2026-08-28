@@ -34,6 +34,6 @@
 ---
 
 <div align="center">
-  <img src="URL_DE_UMA_FOTO_MAIOR_AQUI" width="500" alt="Photo"/>
+  <img src="https://github.com/runaweay/runaweay/blob/main/images/mm_2.JPG?raw=true" width="500" alt="Photo"/>
 </div>
 
