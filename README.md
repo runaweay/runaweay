@@ -1,17 +1,22 @@
-<div align="center">
-  <img src="https://github.com/runaweay/runaweay/blob/main/images/mm.JPG?raw=true" width="100" style="border-radius: 50%;" alt="Mariana dos Santos Moreno"/>
-</div>
+<table>
+  <tr>
+    <td width="180">
+      <img src="https://github.com/runaweay/runaweay/blob/main/images/mm.JPG?raw=true" width="150" style="border-radius: 50%;" alt="Mariana dos Santos Moreno"/>
+    </td>
+    <td>
 
 # Hey there, my name is Mariana!
 
 ### PhD Student at PUC Chile
 
-<br>
-
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/runaweay)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-moreno-145990218/)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-6001-8219)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=5YK9hUgAAAAJ&hl=pt-BR)
+
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -31,3 +36,4 @@
 <div align="center">
   <img src="URL_DE_UMA_FOTO_MAIOR_AQUI" width="500" alt="Photo"/>
 </div>
+
