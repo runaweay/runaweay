@@ -21,14 +21,14 @@
 
 - 🌎 I'm a geographer (UNESP, Brazil) and have worked and researched anthropogenic soils since my undergrad;
 - 🎓 Currently a PhD student at Pontificia Universidad Católica de Chile;
-- 🔬 Thesis student at the Centre for Sustainable Urban Development ([CEDEUS](https://www.cedeus.cl/)), working with professor [@saryace](https://github.com/saryace)
+- 🔬 Thesis student at the Centre for Sustainable Urban Development ([CEDEUS](https://www.cedeus.cl/)), working with professor PhD [@saryace](https://github.com/saryace);
 - 🏙️ My PhD research focuses on the effects of thermal microclimate and physical properties on urban soils in Santiago;
 - 📊 I'm a beginner in R, learning to handle the data from my PhD research;
 - ⚽ I love playing soccer — part of PUC's women's soccer team;
 - 🚴‍♀️ Also enjoy cycling;
 - 🐱 Cat lover: I have 3 cats in Brazil and 1 in Chile;
 - 🎶 I play ukulele and love learning new instruments;
-- 🌱 Recently recovered from a lung condition and easing back into sports;
+- 🌱 Recently recovered from a lung condition and easing back into sports!
 
 </td>
     <td width="550">
