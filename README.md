@@ -4,13 +4,13 @@
 
 ### PhD Student at PUC Chile
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/runaweay)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-moreno-145990218/)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-6001-8219)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=5YK9hUgAAAAJ&hl=pt-BR)
+[![Instagram](https://pride-badges.pony.workers.dev/static/v1?label=instagram&labelColor=E4405F&stripeWidth=0&stripeColors=E4405F)](https://instagram.com/runaweay)
+[![LinkedIn](https://pride-badges.pony.workers.dev/static/v1?label=linkedin&labelColor=0077B5&stripeWidth=0&stripeColors=0077B5)](https://www.linkedin.com/in/mariana-moreno-145990218/)
+[![ORCID](https://pride-badges.pony.workers.dev/static/v1?label=orcid&labelColor=A6CE39&stripeWidth=0&stripeColors=A6CE39)](https://orcid.org/0000-0001-6001-8219)
+[![Google Scholar](https://pride-badges.pony.workers.dev/static/v1?label=google%20scholar&labelColor=4285F4&stripeWidth=0&stripeColors=4285F4)](https://scholar.google.com/citations?user=5YK9hUgAAAAJ&hl=pt-BR)
 
-[![LGBTQ+ Friendly](https://pride-badges.pony.workers.dev/static/v1?label=lgbtq%2B%20friendly&labelColor=000000&stripeWidth=8&stripeColors=E40303,FF8C00,FFED00,008026,24408E,732982)](https://github.com/runaweay)
-[![Trans Rights](https://pride-badges.pony.workers.dev/static/v1?label=trans%20rights&labelColor=000000&stripeWidth=8&stripeColors=5BCEFA,F5A9B8,FFFFFF,F5A9B8,5BCEFA)](https://github.com/runaweay)
+![LGBTQ+ Friendly](https://pride-badges.pony.workers.dev/static/v1?label=lgbtq%2B%20friendly&stripeWidth=6&stripeColors=E40303,FF8C00,FFED00,008026,24408E,732982)
+![Trans Rights](https://pride-badges.pony.workers.dev/static/v1?label=trans%20rights&stripeWidth=6&stripeColors=5BCEFA,F5A9B8,FFFFFF,F5A9B8,5BCEFA)
 
 </div>
 
@@ -37,5 +37,3 @@
     </td>
   </tr>
 </table>
-
-
