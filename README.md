@@ -8,7 +8,6 @@
 [![LinkedIn](https://pride-badges.pony.workers.dev/static/v1?label=linkedin&labelColor=0077B5&stripeWidth=8&stripeColors=0077B5)](https://www.linkedin.com/in/mariana-moreno-145990218/)
 [![ORCID](https://pride-badges.pony.workers.dev/static/v1?label=orcid&labelColor=A6CE39&stripeWidth=8&stripeColors=A6CE39)](https://orcid.org/0000-0001-6001-8219)
 [![Google Scholar](https://pride-badges.pony.workers.dev/static/v1?label=google%20scholar&labelColor=4285F4&stripeWidth=8&stripeColors=4285F4)](https://scholar.google.com/citations?user=5YK9hUgAAAAJ&hl=pt-BR)
-
 ![LGBTQ+ Friendly](https://pride-badges.pony.workers.dev/static/v1?label=lgbtq%2B%20friendly&stripeWidth=6&stripeColors=E40303,FF8C00,FFED00,008026,24408E,732982)
 ![Trans Rights](https://pride-badges.pony.workers.dev/static/v1?label=trans%20rights&stripeWidth=6&stripeColors=5BCEFA,F5A9B8,FFFFFF,F5A9B8,5BCEFA)
 
