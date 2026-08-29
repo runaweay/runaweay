@@ -9,8 +9,8 @@
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-6001-8219)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=5YK9hUgAAAAJ&hl=pt-BR)
 
-![LGBTQ+ Friendly](https://pride-badges.pony.workers.dev/static/v1?label=lgbtq%2B%20friendly&stripeWidth=6&stripeColors=E40303,FF8C00,FFED00,008026,24408E,732982)
-![Trans Rights](https://pride-badges.pony.workers.dev/static/v1?label=trans%20rights&stripeWidth=6&stripeColors=5BCEFA,F5A9B8,FFFFFF,F5A9B8,5BCEFA)
+[![LGBTQ+ Friendly](https://pride-badges.pony.workers.dev/static/v1?label=lgbtq%2B%20friendly&labelColor=000000&stripeWidth=8&stripeColors=E40303,FF8C00,FFED00,008026,24408E,732982)](https://github.com/runaweay)
+[![Trans Rights](https://pride-badges.pony.workers.dev/static/v1?label=trans%20rights&labelColor=000000&stripeWidth=8&stripeColors=5BCEFA,F5A9B8,FFFFFF,F5A9B8,5BCEFA)](https://github.com/runaweay)
 
 </div>
 
@@ -37,4 +37,5 @@
     </td>
   </tr>
 </table>
+
 
