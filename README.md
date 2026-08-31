@@ -28,6 +28,7 @@
 - 🚴‍♀️ Also enjoy cycling;
 - 🐱 Cat lover: I have 3 cats in Brazil and 1 in Chile;
 - 🎶 I play ukulele and love learning new instruments;
+- 🐏 Aries, ascendant in taurus and pisces moon;
 - 🌱 Recently recovered from a lung condition and easing back into sports!
 
 </td>
